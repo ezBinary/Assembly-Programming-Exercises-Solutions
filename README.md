@@ -3,7 +3,7 @@ Solutions to Programming Exercises in "Assembly Language for x86 Processors" (8t
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [List of Solutions for Exercises](#list_of_solutions_for_exercises)
+- [List of Solutions for Exercises](#list-of-solutions-for-exercises)
 - [Contributions](#contributions)
 - [License](#license)
 - [Feedback](#feedback)
