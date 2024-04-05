@@ -20,8 +20,7 @@ COUNT = 4d                                   ; number of times to print the stri
     ; Receives: ECX = number of times to print the string
     ;           ESI = offset of the string
     ; Returns:  Nothing
-    ; Calls: SetTextColor, WriteString, RandomRange, Crlf,
-    ;        RandomRange
+    ; Calls: SetTextColor, WriteString, Crlf
     ;----------------------------------------------------------
     DrawTextColor PROC USES ecx edx eax
         mov edx,esi
