@@ -1,4 +1,4 @@
-TITLE Programming Exercises Chapter 5 : Draw Text Colors    (Ex5_1.asm)
+TITLE Programming Exercises Chapter 5 : Draw Text Colors    (Ch5_Ex1_DrawTextColors.asm)
 
 ; Program Desscription: Programming Exercises Chapter 5, Exercise 1
 ; Author: ezBinary
