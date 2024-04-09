@@ -1,4 +1,4 @@
-TITLE Programming Exercises Chapter 5 : BetterRandomRange Procesdure      (Ch5_Ex5_BetterRandomRangeProcesdure.asm)
+TITLE Programming Exercises Chapter 5 : BetterRandomRange Procedure      (Ch5_Ex5_BetterRandomRangeProcedure.asm)
 
 ; Program Desscription: Programming Exercises Chapter 5, Exercise 5
 ; Author: ezBinary
