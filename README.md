@@ -31,6 +31,19 @@ I would like to express my sincere gratitude to Kip Irvine, the author of the bo
   - [Exercise 7: Copy a String in Reverse Order](Assembly-Programming-Exercises-Solutions/chapter_4/Ch4_Ex7_CopyaStringinReverseOrder.asm)
   - [Exercise 8: Shifting the Elements in an Array](Assembly-Programming-Exercises-Solutions/chapter_4/Ch4_Ex8_ShiftingtheElementsinanArray.asm)
 
+- **Chapter 5**
+  - [Exercise 1: Draw Text Colors](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex1_DrawTextColors.asm)
+  - [Exercise 2: Linking Array Items](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex2_LinkArrayItems.asm)
+  - [Exercise 3: Simple Addition (1)](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex3_SimpleAddition(1).asm)
+  - [Exercise 4: Simple Addition (2)](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex4_SimpleAddition(2).asm)
+  - [Exercise 5: Better Random Range Procedure](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex5_BetterRandomRangeProcedure.asm)
+  - [Exercise 6: Random String](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex6_RandomStrings.asm)
+  - [Exercise 7: Random Screen Locations](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex7_RandomScreenLocations.asm)
+  - [Exercise 8: Color Matrix](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex8_ColorMatrix.asm)
+  - [Exercise 9: Recursive Procedure](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex9_RecursiveProcedure.asm)
+  - [Exercise 10: Fibonacci Generator](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex10_FibonacciGenerator.asm)
+  - [Exercise 11: Finding Multiples of K](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex11_FindingMultiplesofK.asm)
+  
 This repository is still being updated.
 
  ## Contributions
