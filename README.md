@@ -43,7 +43,18 @@ I would like to express my sincere gratitude to Kip Irvine, the author of the bo
   - [Exercise 9: Recursive Procedure](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex9_RecursiveProcedure.asm)
   - [Exercise 10: Fibonacci Generator](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex10_FibonacciGenerator.asm)
   - [Exercise 11: Finding Multiples of K](Assembly-Programming-Exercises-Solutions/chapter_5/Ch5_Ex11_FindingMultiplesofK.asm)
-  
+
+- **Chapter 6**
+  - [Exercise 1: Filling an Array](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex1_FillinganArray.asm)
+  - [Exercise 2: Summing Array Elements in a Range](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex2_SummingArrayElementsinaRange.asm)
+  - [Exercise 3: Test Score Evaluation](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex3_TestScoreEvaluation.asm)
+  - [Exercise 4: College Registration](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex4_CollegeRegistration.asm)
+  - [Exercise 5 & 6: Boolean Calculatur](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex5_Ex6_BooleanCalculatur(1_and_2).asm)
+  - [Exercise 7: Probabilities and Colors](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex7_ProbabilitiesAndColors.asm)
+  - [Exercise 8: Message Encryption](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex8_MessageEncryption.asm)
+  - [Exercise 9: Validating a Pin](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex9_ValidatingaPin.asm)
+  - [Exercise 10: Parity Checking](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex10_ParityChecking.asm)
+
 This repository is still being updated.
 
  ## Contributions
