@@ -55,6 +55,28 @@ I would like to express my sincere gratitude to Kip Irvine, the author of the bo
   - [Exercise 9: Validating a Pin](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex9_ValidatingaPin.asm)
   - [Exercise 10: Parity Checking](Assembly-Programming-Exercises-Solutions/chapter_6/Ch6_Ex10_ParityChecking.asm)
 
+- **Chapter 7**
+  - [Exercise 1: Display ASCII Decimal](Assembly-Programming-Exercises-Solutions/chapter_7/Ch7_Ex1_DisplayASCIIDecimal.asm)
+  - [Exercise 2: Extended Substrsction Procedure](Assembly-Programming-Exercises-Solutions/chapter_7/Ch7_Ex2_ExtendedSubstrsctionProcedure.asm)
+  - [Exercise 3: Packed Decimal Conversion](Assembly-Programming-Exercises-Solutions/chapter_7/Ch7_Ex3_PackedDecimalConversion.asm)
+  - [Exercise 4: Encryption Using Rotation Opreration](Assembly-Programming-Exercises-Solutions/chapter_7/Ch7_Ex4_EncryptionUsingRotationOpreration.asm)
+  - [Exercise 5: Prime Numbers](Assembly-Programming-Exercises-Solutions/chapter_7/Ch7_Ex5_PrimeNumbers.asm)
+  - [Exercise 6: Greatest Common Divisor (GCD)](Assembly-Programming-Exercises-Solutions/chapter_7/Ch7_Ex6_GreatestCommonDivisor(GCD).asm)
+  - [Exercise 7: Bitwise Multiplication](Assembly-Programming-Exercises-Solutions/chapter_7/Ch7_Ex7_BitwiseMultiplication.asm)
+  - [Exercise 8: Add Packed](Assembly-Programming-Exercises-Solutions/chapter_7/Ch7_Ex8_AddPacked.asm)
+
+- **Chapter 8**
+  - [Exercise 1: Find Largest Procedure](Assembly-Programming-Exercises-Solutions/chapter_8/Ch8_Ex1_FindLargestProcedure.asm)
+  - [Exercise 2: Chess Board](Assembly-Programming-Exercises-Solutions/chapter_8/Ch8_Ex2_ChessBoard.asm)
+  - [Exercise 3: Chess Board with Alternating Colors](Assembly-Programming-Exercises-Solutions/chapter_8/Ch8_Ex3_ChessBoardwithAlternatingColors.asm)
+  - [Exercise 4: Find Threes Procedure](Assembly-Programming-Exercises-Solutions/chapter_8/Ch8_Ex4_FindThreesProcedure.asm)
+  - [Exercise 5: Different Inputs Prodecure](Assembly-Programming-Exercises-Solutions/chapter_8/Ch8_Ex5_DifferentInputsProdecure.asm)
+  - [Exercise 6: Exchanging Integers](Assembly-Programming-Exercises-Solutions/chapter_8/Ch8_Ex6_ExchangingIntegers.asm)
+  - [Exercise 7: Greatest Common Divisor](Assembly-Programming-Exercises-Solutions/chapter_8/Ch8_Ex7_GreatestCommonDivisor.asm)
+  - [Exercise 8: Counting Matching Elements](Assembly-Programming-Exercises-Solutions/chapter_8/Ch8_Ex8_CountingMatchingElements.asm)
+  - [Exercise 9: Counting Near Matching Elements](Assembly-Programming-Exercises-Solutions/chapter_8/Ch8_Ex9_CountingNearMatchingElements.asm)
+  - [Exercise 10: Show Procedure Parameters](Assembly-Programming-Exercises-Solutions/chapter_8/Ch8_Ex10_ShowProcedureParameters.asm)
+
 This repository is still being updated.
 
  ## Contributions
